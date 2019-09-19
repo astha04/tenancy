@@ -1,0 +1,2 @@
+# tenancy
+This project deals with a smart contract called check which takes the deposited amount and date of deposit from the tenant as input and accordingly calculates the balance amount left to be paid to the landlord by the tenant. It also tells wither the tenant is a valid one or not based on the deposited amount and date of deposit set by the landlord.Accordingly the amount deposited by the tenant whether it is equal to rent or some balance money is transacted automatically from the tenant's account and   deposited in the landlord's account.
